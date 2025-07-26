@@ -22,7 +22,7 @@ This tool allows users to:
 
 - Windows OS with **Vector CANalyzer** installed
 - Python 3.6+
-- CAPL script file (optional, but recommended)
+- CAPL script file (`.capl`, `.can`) (optional, but recommended)
 - CANalyzer configuration file (`.cfg`)
 
 Install Python dependencies:
